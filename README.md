@@ -1,7 +1,7 @@
 # Godot Analog Clock Widget
 
-Small, semi-accurate analog clock widget in Godot that uses system time.
+Small, semi-accurate analog clock widget in Godot that uses system time.  
 
-### To-Do:
+### To-Do:  
 
-  Planning on using Unix Epoch for milliseconds to smooth everything.
+Planning on using **Unix Epoch** for milliseconds to smooth everything.  
